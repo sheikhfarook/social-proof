@@ -1,0 +1,35 @@
+/* <div className="w-[85%] mt-[5%] m-auto"> */
+
+/* .App {
+  width: 80rem;
+  margin: auto;
+  margin-top: 6rem;
+  height: 100dvh;
+} */
+/* 
+.Images {
+  min-height: 100vh;
+  background-image: url(../src/assets/images/bg-pattern-top-desktop.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: left top -1rem;
+  display: grid;
+}
+.Images1 {
+  min-height: 90vh;
+  background-image: url(../src/assets/images/bg-pattern-bottom-desktop.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right bottom 0px;
+  margin-right: -142px;
+} */
+
+/* .Images1 {
+  min-height: 100vh;
+  background-image: url(../src/assets/images/bg-pattern-bottom-desktop.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right top 13rem;
+  /* display: grid; */
+/* } */
+
+body {
+  /* background-color: black; */
+}
